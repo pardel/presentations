@@ -2,6 +2,7 @@
 
 A collection of presentations and supported materials.
 
+---
 
 ## Adventures in Flutter-land @ DevTalks Romania, June 2023
 
@@ -9,6 +10,7 @@ There is always that business lure to save money and "build once, deploy everywh
 
 [Slides](2023%20-%20DevTalks%20-%20Adventures%20in%20Flutter-land/slides.pdf) | [Conference website](https://www.devtalks.ro/)
 
+---
 
 ## What Developers Want @ apidays Live Paris, December 2021
 
@@ -16,6 +18,7 @@ Sharing the learnings I’ve accumulated over the last 3 years whilst working wi
 
 [Slides](2021%20-%20apidays%20-%20What%20developers%20want/slides.pdf) | [Video](https://www.youtube.com/watch?v=4O92wtjpCLU) | [Conference website](https://www.apidays.global/paris2021/)
 
+---
 
 ## The brave new world of SwiftUI @ DevTalks Reimagined (online), 2020
 
